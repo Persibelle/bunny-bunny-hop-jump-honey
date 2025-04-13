@@ -15,3 +15,4 @@ A fun Python adventure game where your bunny must make brave, rhyming choices to
 - Multiple endings based on bravery
 
 Enjoy the adventure! 🐇💛
+Made with <3 by persibelle!
